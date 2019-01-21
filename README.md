@@ -9,6 +9,7 @@ User has 10 times to guess. After 10 times missed, the game it re-start a new ro
 
 Click on the following link to preview the completed assignment.  
 
+https://nan227.github.io/Psychic-Game/
 
 ## Built With
 
